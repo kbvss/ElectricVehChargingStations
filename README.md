@@ -15,7 +15,7 @@ Within the browser window right click "XYZ Tiles"
 * Click New Connection
 * Name it Open Street Map
 * Click this URL to find the link to the Open Street Map servers https://wiki.openstreetmap.org/wiki/Tile_servers
-* Use the Standard Tiles later for Open street map: https://tile.openstreetmap.org/${z}/${x}/${y}.png. 
+* Use the Standard Tiles layer for Open street map: https://tile.openstreetmap.org/${z}/${x}/${y}.png. 
 * Paste the URL
 * Click okay
 
@@ -25,7 +25,6 @@ Within the browser window right click "XYZ Tiles"
 # Shapefile source for the state/country/province boundaries
 
 https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
-
 
 
 # After adding the data to the map
