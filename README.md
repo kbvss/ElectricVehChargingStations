@@ -45,4 +45,4 @@ I made sure to set the scale visibility for the layer as 1:500000000, so the poi
 ![MAPTN](https://github.com/kbvss/ElectricVehChargingStations/blob/main/Electric%20Vehicle%20Charging%20stations.png?raw=true)
 
 
-When I completed the map, I was surpised to see the amount of stations in Tennessee. If I were to make the shift to an electric vehicle, charging stations locations would be the least of my worries as there are plenty within a realistic distance from each other.
+When I completed the map, I was surpised to see the amount of stations in Tennessee. If I were to make the shift to an electric vehicle, charging station locations would be the least of my worries as there are plenty within a realistic distance from each other.
