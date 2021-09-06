@@ -10,7 +10,7 @@ https://www.qgis.org/en/site/
 
 https://afdc.energy.gov/fuels/electricity_locations.html#/analyze?fuel=ELEC
 
-# Importing Open Street Map to import the base map
+# Importing Open Street Map
 Within the browser window right click "XYZ Tiles"
 * Click New Connection
 * Name it Open Street Map
@@ -21,9 +21,18 @@ Within the browser window right click "XYZ Tiles"
 
 ![XYZTileExample](https://github.com/kbvss/ElectricVehChargingStations/blob/main/XYZ%20tile%20example.png?raw=true)
 
-# Shapefile of the world map state/province boundaires used
+
+# Shapefile source for the state/country/province boundaries
 
 https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
+
+
+
+#After adding the data to the map
+
+I made sure to set the scale visibility for the layer as 1:500000000
+
+![ScaleVisi](https://github.com/kbvss/ElectricVehChargingStations/blob/main/Electric%20Vehicle%20Charging%20stations.png?raw=true)
 
 
 # The Complete Map
