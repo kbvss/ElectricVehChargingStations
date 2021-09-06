@@ -8,6 +8,7 @@ https://www.qgis.org/en/site/
 
 # Data Source
 
+Electric Vehicle Charging Station Locations in the United States and Canada. 
 https://afdc.energy.gov/fuels/electricity_locations.html#/analyze?fuel=ELEC
 
 # Importing Open Street Map
@@ -24,10 +25,12 @@ Within the browser window right click "XYZ Tiles"
 
 # Shapefile source for the state/country/province boundaries
 
+"Admin 1 – States, provinces" was the shapefile used
+
 https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
 
 
-# After adding the data to the map
+# After importing the CSV file 
 
 I made sure to set the scale visibility for the layer as 1:500000000, so the points will plot at the correct location.
 
