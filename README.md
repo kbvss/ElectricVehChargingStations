@@ -1,4 +1,4 @@
-# ElectricVehChargingStations
+# Electric Vehicle Charging Stations
 Using QGIS to map Electric Vehicle Charging Stations
 
 # QGis Mapping Software link
@@ -16,8 +16,9 @@ Within the browser window right click "XYZ Tiles"
 
 ![XYZTileExample](https://github.com/kbvss/ElectricVehChargingStations/blob/main/XYZ%20tile%20example.png?raw=true)
 
-# Shapefile of the world map
+# Shapefile of the world map state/province boundaires
 
+https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
 
 
 # The Complete Map
