@@ -23,7 +23,7 @@ Within the browser window right click "XYZ Tiles"
 ![XYZTileExample](https://github.com/kbvss/ElectricVehChargingStations/blob/main/XYZ%20tile%20example.png?raw=true)
 
 
-# Shapefile source for the state/country/province boundaries
+# Shapefile source for the state/country/province boundaries -1:50m Cultural Vectors
 
 "Admin 1 – States, provinces" was the shapefile used
 
