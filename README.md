@@ -1,6 +1,8 @@
 # Electric Vehicle Charging Stations
 
-Visualizing Electric Vehicle Charging Stations in Tennessee using QGIS.
+Visualizing Electric Vehicle Charging Stations in Tennessee using QGIS. 
+
+With society's shift towards sustainable energy, electric vehicles are slowly but surely becoming the norm on the roadway. As someone who commutes long distances to my workplace, I was curious to see how many stations were in Tennessee. Would there be enough to warrant long distance travel or the peace of mind to know that I could recharge my vehicle as needed?
 
 # QGis Mapping Software link
 
@@ -41,3 +43,6 @@ I made sure to set the scale visibility for the layer as 1:500000000, so the poi
 
 
 ![MAPTN](https://github.com/kbvss/ElectricVehChargingStations/blob/main/Electric%20Vehicle%20Charging%20stations.png?raw=true)
+
+
+When I completed the map, I was surpised to see the amount of stations in Tennessee. If I were to make the shift to an electric vehicle, charging stations locations would be the least of my worries as there are plenty within a realistic distance from each other.
