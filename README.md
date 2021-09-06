@@ -28,14 +28,14 @@ https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
 
 
 
-#After adding the data to the map
+# After adding the data to the map
 
-I made sure to set the scale visibility for the layer as 1:500000000
+I made sure to set the scale visibility for the layer as 1:500000000, so the points will plot at the correct location.
 
-![ScaleVisi](https://github.com/kbvss/ElectricVehChargingStations/blob/main/Electric%20Vehicle%20Charging%20stations.png?raw=true)
+![ScaleVisi](https://github.com/kbvss/ElectricVehChargingStations/blob/main/ScaleVisibility.PNG?raw=true)
 
 
-# The Complete Map
+# The Completed Map
 
 
 ![MAPTN](https://github.com/kbvss/ElectricVehChargingStations/blob/main/Electric%20Vehicle%20Charging%20stations.png?raw=true)
